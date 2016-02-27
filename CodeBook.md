@@ -22,6 +22,9 @@ For each record in the dataset it is provided:
 ##### A full description is available at the site where the data was obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+##### Data Source:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 
 ### Process 1. Merges the training and the test sets to create one data set
 Listed files below are loaded into tables frames, after which colomns are renamed and data merged.
